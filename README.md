@@ -67,11 +67,18 @@ I am hamed, Master of Marketing from [The Univesity of shahid bahonar university
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hamed-zeidabadi/CizeDigital_FrontEnd?style=flat-square&labelColor=343b41"/></td>
     </tr>
 		<tr>
-			<td><a href="https://github.com/hamed-zeidabadi/skullcandy"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
+			<td><a href="https://github.com/hamed-zeidabadi/skullcandy"><b>A funny little project, using React.JS</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/hamed-zeidabadi/skullcandy?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/hamed-zeidabadi/skullcandy?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/hamed-zeidabadi/skullcandy?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hamed-zeidabadi/skullcandy?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+			<td><a href="https://github.com/hamed-zeidabadi/Likegram"><b>beautiful exercise for learning React Native + Redux</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/hamed-zeidabadi/Likegram?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/hamed-zeidabadi/Likegram?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/hamed-zeidabadi/Likegram?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hamed-zeidabadi/Likegram?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
