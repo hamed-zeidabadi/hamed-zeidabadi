@@ -13,9 +13,13 @@ I am hamed, Master of Marketing from [The Univesity of shahid bahonar university
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![ExpressJs](https://img.shields.io/badge/-ExpressJs-black?style=flat-square&logo=express.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![PHP](https://img.shields.io/badge/-PHP-f9f7d9?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-f9f7d9?style=flat-square&logo=laravel)
+![React](https://img.shields.io/badge/-React-d2f6c5?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-d2f6c5?style=flat-square&logo=redux)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-1572B6?style=flat-square&logo=sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
@@ -24,8 +28,7 @@ I am hamed, Master of Marketing from [The Univesity of shahid bahonar university
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![PHP](https://img.shields.io/badge/-PHP-c14438?style=flat-square&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-f9f7d9?style=flat-square&logo=laravel)
+
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hamed-zeidabadi&count_private=true&show_icons=true&include_all_commits=true)
