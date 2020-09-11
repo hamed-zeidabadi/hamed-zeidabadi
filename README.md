@@ -1,4 +1,4 @@
-## Fancy seeing you here! 
+## Hi there, I'm Hamed 👋
 
 I am hamed, Master of Marketing from [The Univesity of shahid bahonar university at kerman (IR)](https://uk.ac.ir/en/home). I am a tech  [JuJitsu](https://en.wikipedia.org/wiki/Jujutsu). & an open-source Developer. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
