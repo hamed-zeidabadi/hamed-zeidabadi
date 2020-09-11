@@ -11,7 +11,7 @@ I am hamed, Master of Marketing from [The Univesity of shahid bahonar university
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![ExpressJs](https://img.shields.io/badge/-ExpressJs-black?style=flat-square&logo=express.js)
+![ExpressJs](https://img.shields.io/badge/-ExpressJs-black?style=flat-square&logo=express)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![PHP](https://img.shields.io/badge/-PHP-f9f7d9?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-f9f7d9?style=flat-square&logo=laravel)
@@ -36,10 +36,7 @@ I am hamed, Master of Marketing from [The Univesity of shahid bahonar university
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hamed-zeidabadi&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamed-zeidabadi&hide=TeX&layout=compact)
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/hamed-zeidabadi/count.svg" />
-</p>
+
 
 
 <h3>Open source projects</h3>
@@ -84,3 +81,8 @@ I am hamed, Master of Marketing from [The Univesity of shahid bahonar university
     </tr>
   </tbody>
 </table>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/hamed-zeidabadi/count.svg" />
+</p>
