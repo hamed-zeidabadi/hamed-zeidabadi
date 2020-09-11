@@ -35,3 +35,7 @@ I am hamed, Master of Marketing from [The Univesity of shahid bahonar university
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamed-zeidabadi&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hamed-zeidabadi)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/hamed-zeidabadi/count.svg" />
+</p>
