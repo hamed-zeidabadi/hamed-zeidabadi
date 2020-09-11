@@ -1,11 +1,11 @@
 ## Fancy seeing you here! 
 
-I am hamed .. Emmadi, people call me Ani, currently pursuing my bachelor's degree majoring in computer science from [The Univesity of Texas at Dallas](https://utdallas.edu/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am hamed, Master of Marketing from [The Univesity of shahid bahonar university at kerman (IR)](https://uk.ac.ir/en/home). I am a tech  [JuJitsu](https://en.wikipedia.org/wiki/Jujutsu). & an open-source Developer. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Hamed_1998a)](https://t.me/Hamed_1998a)
+[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/hamed_zeidabadi_73/)](https://instagram.com/hamed_zeidabadi_73)
+[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://virgool.io/@zeidabadi73)](https://virgool.io/@zeidabadi73)
+[![Gmail Badge](https://img.shields.io/badge/-zeidabadi73@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zeidabadi73@gmail.com)](mailto:zeidabadi73@gmail.com)
 
 ## ⚡ Technologies
 
