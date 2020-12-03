@@ -10,7 +10,7 @@ I am hamed, Master of Marketing from [The Univesity of shahid bahonar university
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-brown?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![ExpressJs](https://img.shields.io/badge/-ExpressJs-black?style=flat-square&logo=express)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
