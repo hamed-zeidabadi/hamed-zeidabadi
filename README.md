@@ -40,36 +40,6 @@ I am hamed, Master of Marketing from [The Univesity of shahid bahonar university
 
 
 
-<h3>Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-	    <td><a href="https://github.com/hamed-zeidabadi/NodeJs_highest_security_api"><b>Basic ExpressJs framework Project with the Highest Level of Security Settings</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/hamed-zeidabadi/NodeJs_highest_security_api?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/hamed-zeidabadi/NodeJs_highest_security_api?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/hamed-zeidabadi/NodeJs_highest_security_api?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hamed-zeidabadi/NodeJs_highest_security_api?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-		  <td><a href="https://github.com/hamed-zeidabadi/CizeDigital_FrontEnd"><b>Digital Products Store with React.js</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/hamed-zeidabadi/CizeDigital_FrontEnd?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/hamed-zeidabadi/CizeDigital_FrontEnd?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/hamed-zeidabadi/CizeDigital_FrontEnd?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hamed-zeidabadi/CizeDigital_FrontEnd?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-		
-  </tbody>
-</table>
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/hamed-zeidabadi/count.svg" />
