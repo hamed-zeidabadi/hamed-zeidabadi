@@ -13,9 +13,6 @@ I am hamed, Master of Marketing from [The Univesity of shahid bahonar university
 ![TypeScript](https://img.shields.io/badge/-TypeScript-brown?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![ExpressJs](https://img.shields.io/badge/-ExpressJs-black?style=flat-square&logo=express)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![PHP](https://img.shields.io/badge/-PHP-f9f7d9?style=flat-square&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-f9f7d9?style=flat-square&logo=laravel)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-1572B6?style=flat-square&logo=sass)
@@ -25,10 +22,8 @@ I am hamed, Master of Marketing from [The Univesity of shahid bahonar university
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=vscode)
 
 
