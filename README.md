@@ -1,35 +1,82 @@
-## Hi there, I'm Hamed 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Hamed;Senior+Full+Stack+Developer;React+%7C+.NET+Core+Specialist" alt="Typing SVG" />
+</h1>
 
-I am hamed, Master of Marketing from [The Univesity of shahid bahonar university at kerman (IR)](https://uk.ac.ir/en/home). I am a tech  [JuJitsu](https://en.wikipedia.org/wiki/Jujutsu). & an open-source Developer. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+<p align="center">
+  <a href="https://t.me/Hamed_1998a"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://instagram.com/hamed_zeidabadi_73"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://virgool.io/@zeidabadi73"><img src="https://img.shields.io/badge/Virgool-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="mailto:zeidabadi73@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-[![Telegram Badge](https://img.shields.io/badge/-Hamed_1998a-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Hamed_1998a)](https://t.me/Hamed_1998a)
-[![Instagram Badge](https://img.shields.io/badge/-hamed_zeidabadi_73-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/hamed_zeidabadi_73/)](https://instagram.com/hamed_zeidabadi_73)
-[![Medium Badge](https://img.shields.io/badge/-@zeidabadi73-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://virgool.io/@zeidabadi73)](https://virgool.io/@zeidabadi73)
-[![Gmail Badge](https://img.shields.io/badge/-zeidabadi73@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zeidabadi73@gmail.com)](mailto:zeidabadi73@gmail.com)
+---
 
-## ⚡ Technologies
+### 👨‍💻 About Me
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-1572B6?style=flat-square&logo=sass)
-![React](https://img.shields.io/badge/-React-414141?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-414141?style=flat-square&logo=redux)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=vscode)
+```typescript
+const hamed = {
+  role: "Senior Full Stack Developer",
+  focus: ["React", "TypeScript", ".NET Core"],
+  education: "Master of Marketing @ Shahid Bahonar University",
+  interests: ["Open Source", "JuJitsu", "Clean Code"],
+  currentlyLearning: "Always something new 🚀"
+};
+```
 
+---
 
+### 🛠️ Tech Stack
 
+<p align="center">
+  <b>Frontend</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,tailwind,sass,html,css" />
+</p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=hamed-zeidabadi&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamed-zeidabadi&hide=TeX&layout=compact)
+<p align="center">
+  <b>Backend</b><br/>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express" />
+</p>
 
+<p align="center">
+  <b>Tools & Others</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma" />
+</p>
 
+---
 
+### 📊 GitHub Stats
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/hamed-zeidabadi/count.svg" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hamed-zeidabadi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamed-zeidabadi&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamed-zeidabadi&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hamed-zeidabadi&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamed-zeidabadi&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hamed-zeidabadi&style=for-the-badge&color=6366F1" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer"/>
 </p>
